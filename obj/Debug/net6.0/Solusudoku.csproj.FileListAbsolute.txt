@@ -1,0 +1,15 @@
+C:\Users\COMPUMAX\Documents\GitHub\Solusudoku\bin\Debug\net6.0\Solusudoku.exe
+C:\Users\COMPUMAX\Documents\GitHub\Solusudoku\bin\Debug\net6.0\Solusudoku.deps.json
+C:\Users\COMPUMAX\Documents\GitHub\Solusudoku\bin\Debug\net6.0\Solusudoku.runtimeconfig.json
+C:\Users\COMPUMAX\Documents\GitHub\Solusudoku\bin\Debug\net6.0\Solusudoku.dll
+C:\Users\COMPUMAX\Documents\GitHub\Solusudoku\bin\Debug\net6.0\Solusudoku.pdb
+C:\Users\COMPUMAX\Documents\GitHub\Solusudoku\obj\Debug\net6.0\Solusudoku.csproj.AssemblyReference.cache
+C:\Users\COMPUMAX\Documents\GitHub\Solusudoku\obj\Debug\net6.0\Solusudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMAX\Documents\GitHub\Solusudoku\obj\Debug\net6.0\Solusudoku.AssemblyInfoInputs.cache
+C:\Users\COMPUMAX\Documents\GitHub\Solusudoku\obj\Debug\net6.0\Solusudoku.AssemblyInfo.cs
+C:\Users\COMPUMAX\Documents\GitHub\Solusudoku\obj\Debug\net6.0\Solusudoku.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMAX\Documents\GitHub\Solusudoku\obj\Debug\net6.0\Solusudoku.dll
+C:\Users\COMPUMAX\Documents\GitHub\Solusudoku\obj\Debug\net6.0\refint\Solusudoku.dll
+C:\Users\COMPUMAX\Documents\GitHub\Solusudoku\obj\Debug\net6.0\Solusudoku.pdb
+C:\Users\COMPUMAX\Documents\GitHub\Solusudoku\obj\Debug\net6.0\Solusudoku.genruntimeconfig.cache
+C:\Users\COMPUMAX\Documents\GitHub\Solusudoku\obj\Debug\net6.0\ref\Solusudoku.dll
