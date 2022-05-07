@@ -1,0 +1,11 @@
+Crear Tablero de resultados
+Crear tablero 3D para posibilidades
+Llenar el tablero de resultados
+Establecer la primera cara del tablero 3 como el tablero de resultados
+Descartar todas las posibilidades de una fila
+Descartar todas las posibilidades de una columna
+Descartar todas las posibilidades en un cuadrante
+Las posibilidades que quedan como únicas se ponen en la matriz de resultados
+Contador que cuente cambios que se han realizado
+Si no hay cambios proceder a llenar la matriz con números al azar
+repetir este procedimiento hasta que no se encuentren errores

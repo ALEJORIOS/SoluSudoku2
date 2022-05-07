@@ -3,7 +3,7 @@ namespace Juego;
 
 class Tablero {
 
-    int[,] tableroJuego = new int[9,9];
+    private int[,] tableroJuego = new int[9,9];
     public int[,] TableroJuego { get; set; }
     public Tablero() {
         for(int i = 0; i < 9; i++){
