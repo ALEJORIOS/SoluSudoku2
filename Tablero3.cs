@@ -1,3 +1,4 @@
+using System.Text;
 namespace Juego;
 
 class Tablero3 {
@@ -13,5 +14,14 @@ class Tablero3 {
             }
         }
         TableroPosibilidades = tableroPosibilidades;
+    }
+
+    public string printTable(int row) {
+        StringBuilder SB = new StringBuilder();
+        foreach (var item in tableroPosibilidades)
+        {
+            Console.WriteLine(item);
+        }
+        return SB.ToString();
     }
 }
